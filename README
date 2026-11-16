@@ -1,0 +1,23 @@
+# Lógica de Programação e Algoritmos em Python
+
+Repositório dedicado ao armazenamento e organização das atividades, listas de exercícios e desafios práticos desenvolvidos na disciplina de **Lógica de Programação e Algoritmos**, durante a graduação em **Ciência da Computação** na **Universidade La Salle**.
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Sobre o Projeto
+
+O objetivo deste repositório é documentar a evolução no raciocínio lógico e na construção de algoritmos estruturados utilizando Python, servindo tanto como portfólio acadêmico quanto como material de consulta rápida para fundamentos da linguagem.
+
+## Conteúdos Abordados
+
+- **Fundamentos:** Entrada e saída de dados, tipos primitivos, variáveis e expressões aritméticas/lógicas.
+- **Estruturas Condicionais:** Tomada de decisão simples, composta e encadeada (`if`, `elif`, `else`).
+- **Estruturas de Repetição:** Laços contados e condicionais (`for`, `while`), acumuladores, contadores e validação de entradas.
+- **Strings:** Fatiamento, percurso e métodos nativos de manipulação de texto.
+- **Vetores e Matrizes:** Manipulação de listas unidimensionais e bidimensionais, percurso por linhas e colunas, e processamento de dados tabulares.
+- **Funções:** Modularização de código, passagem de parâmetros e retorno de valores.
+
+## Estrutura do Repositório
+
+
